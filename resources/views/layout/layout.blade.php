@@ -26,7 +26,7 @@
     <meta name="keywords" content=", ">
     <meta name="robots" content="noodp,index,follow">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="HTX">
+    <meta property="og:title" content="MindGrow">
     <meta property="og:image" content="{{ asset('images/logo.png') }}">
     <meta property="og:image:secure_url" content="{{ asset('images/logo.png') }}">
     <meta property="og:description" content="MindGrow">
