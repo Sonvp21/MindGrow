@@ -37,3 +37,6 @@ Route::get('tin-tuc', function () {
 Route::get('lien-he', function () {
     return view('lien-he');
 });
+Route::get('hdsd', function () {
+    return view('hdsd');
+});

@@ -113,10 +113,10 @@
 
                                  <div class="swiper-slide-edit-famus swiper-slide">
                                      <div class="flex items-center justify-center box_cate row m-0 p-3 h-full">
-                                         <a href="" title="Chăm sóc sức khỏe tinh thần"
+                                         <a href="http://14.225.211.7:8503/" title="Chăm sóc sức khỏe tinh thần" target="_blank" rel="noopener noreferrer"
                                              class="font-weight-bold big_tit z-10 text-xl">Chăm sóc sức khỏe tinh thần</a>
                                          <div class="img_cate col-5 col-sm-6 p-0">
-                                             <a href="" title="Chăm sóc sức khỏe tinh thần"
+                                             <a href="http://14.225.211.7:8503/" title="Chăm sóc sức khỏe tinh thần" target="_blank" rel="noopener noreferrer"
                                                  class="position-relative w-100 m-0 ratio1by1 has-edge aspect d-block bg_fade">
                                                  <img class="d-block img img-cover position-absolute rounded-full"
                                                      style="height: 100% !important;" alt="Thịt trứng"
@@ -128,7 +128,7 @@
 
                                  <div class="swiper-slide-edit-famus swiper-slide">
                                      <div class="flex items-center justify-center box_cate row m-0 p-3 h-full">
-                                         <a href="" title="Gia sư chương trình đổi mới giáo dục 2018"
+                                         <a href="http://14.225.211.7:8502" title="Gia sư chương trình đổi mới giáo dục 2018" target="_blank" rel="noopener noreferrer"
                                              class="font-weight-bold big_tit z-10 text-xl">Gia sư chương trình đổi mới giáo
                                              dục 2018</a>
                                          <!-- <div class="child col-7 col-sm-6 pl-0">
@@ -148,7 +148,7 @@
                                                             </div>
                                                         </div> -->
                                          <div class="img_cate col-12 col-sm-6 p-0">
-                                             <a href="" title="Gia sư chương trình đổi mới giáo dục 2018"
+                                             <a href="http://14.225.211.7:8502" title="Gia sư chương trình đổi mới giáo dục 2018" target="_blank" rel="noopener noreferrer"
                                                  class="position-relative w-100 m-0 ratio1by1 has-edge aspect d-block bg_fade">
                                                  <img class="d-block img img-cover position-absolute rounded-full"
                                                      style="height: 95% !important;" alt="Thịt bò"
@@ -160,11 +160,11 @@
 
                                  <div class="swiper-slide-edit-famus swiper-slide">
                                      <div class="flex items-center justify-center box_cate row m-0 p-3 h-full">
-                                         <a href="" title="Cá nhân hóa & Dịch vụ tư vấn chuyên sâu"
+                                         <a href="{{ url('lien-he') }}" title="Cá nhân hóa & Dịch vụ tư vấn chuyên sâu"
                                              class="font-weight-bold big_tit z-10 text-xl">Cá nhân hóa & Dịch vụ tư vấn
                                              chuyên sâu</a>
                                          <div class="img_cate col-5 col-sm-6 p-0">
-                                             <a href="" title="Cá nhân hóa & Dịch vụ tư vấn chuyên sâu"
+                                             <a href="{{ url('lien-he') }}" title="Cá nhân hóa & Dịch vụ tư vấn chuyên sâu"
                                                  class="position-relative w-100 m-0 ratio1by1 has-edge aspect d-block bg_fade">
                                                  <img class="d-block img img-cover position-absolute rounded-full"
                                                      style="height: 100% !important;" alt="Trang phục dân tộc"
@@ -487,9 +487,9 @@
                                              <div class="swiper-slide swiper-slide-edit text-left box_padding">
                                                  <div
                                                      class="product-item position-relative p-2 rounded-10 bg-white h-100 border">
-                                                     <a href="https://chatgpt.com/g/g-QgSJXVjnE-nguoi-ban-tam-giao-cua-hspt"
+                                                     <a href="http://14.225.211.7:8503/"
                                                          class="d-block mb-2 modal-open position-relative rounded thumb"
-                                                         title="Tài khoản miễn phí">
+                                                         title="Tài khoản miễn phí" target="_blank" rel="noopener noreferrer">
                                                          <picture
                                                              class="position-relative w-100 m-0 ratio1by1 has-edge aspect d-block zoom">
                                                              <img src="images/tkmienphi.png"
@@ -500,8 +500,8 @@
                                                          <div class="item-info position-relative">
                                                              <h3 class="item-title font-weight-normal mb-0 mt-1">
                                                                  <a class="line_1"
-                                                                     href="https://chatgpt.com/g/g-QgSJXVjnE-nguoi-ban-tam-giao-cua-hspt"
-                                                                     title="Tài khoản miễn phí">
+                                                                     href="http://14.225.211.7:8503/"
+                                                                     title="Tài khoản miễn phí" target="_blank" rel="noopener noreferrer">
                                                                      Tài khoản miễn phí
                                                                  </a>
                                                              </h3>
@@ -518,9 +518,9 @@
                                              <div class="swiper-slide swiper-slide-edit text-left box_padding">
                                                  <div
                                                      class="product-item position-relative p-2 rounded-10 bg-white h-100 border">
-                                                     <a href="http://14.225.211.7:8503/"
+                                                     <a href="https://aitoan2k7.girc.edu.vn"
                                                          class="d-block mb-2 modal-open position-relative rounded thumb"
-                                                         title="Tài khoản dùng thử">
+                                                         title="Tài khoản dùng thử MÔN TOÁN" target="_blank" rel="noopener noreferrer">
                                                          <picture
                                                              class="position-relative w-100 m-0 ratio1by1 has-edge aspect d-block zoom">
                                                              <img src="images/tkdungthu.png"
@@ -530,9 +530,9 @@
 
                                                          <div class="item-info position-relative">
                                                              <h3 class="item-title font-weight-normal mb-0 mt-1">
-                                                                 <a class="line_1" href="http://14.225.211.7:8503/"
-                                                                     title="Tài khoản dùng thử">
-                                                                     Tài khoản dùng thử
+                                                                 <a class="line_1" href="https://aitoan2k7.girc.edu.vn"
+                                                                     title="Tài khoản dùng thử" target="_blank" rel="noopener noreferrer">
+                                                                     Tài khoản dùng thử MÔN TOÁN
                                                                  </a>
                                                              </h3>
                                                              <div class="item-price position-relative">
@@ -548,9 +548,9 @@
                                              <div class="swiper-slide swiper-slide-edit text-left box_padding">
                                                  <div
                                                      class="product-item position-relative p-2 rounded-10 bg-white h-100 border">
-                                                     <a href="/"
+                                                     <a href="http://14.225.211.7:8502/"
                                                          class="d-block mb-2 modal-open position-relative rounded thumb"
-                                                         title="Tài khoản pro">
+                                                         title="Tài khoản pro" target="_blank" rel="noopener noreferrer">
                                                          <picture
                                                              class="position-relative w-100 m-0 ratio1by1 has-edge aspect d-block zoom">
                                                              <img src="images/tkpro.png"
@@ -560,8 +560,8 @@
 
                                                          <div class="item-info position-relative">
                                                              <h3 class="item-title font-weight-normal mb-0 mt-1">
-                                                                 <a class="line_1" href="/" title="Tài khoản pro">
-                                                                     Tài khoản Pro
+                                                                 <a class="line_1" href="http://14.225.211.7:8502/" title="Tài khoản pro" target="_blank" rel="noopener noreferrer">
+                                                                     Tài khoản Pro học sinh giỏi Sinh học
                                                                  </a>
                                                              </h3>
                                                              <div class="item-price position-relative">
@@ -577,9 +577,9 @@
                                              <div class="swiper-slide swiper-slide-edit text-left box_padding">
                                                  <div
                                                      class="product-item position-relative p-2 rounded-10 bg-white h-100 border">
-                                                     <a href="/"
+                                                     <a href="https://onthi2k7.girc.edu.vn"
                                                          class="d-block mb-2 modal-open position-relative rounded thumb"
-                                                         title="Tài khoản nhóm">
+                                                         title="Tài khoản nhóm dùng thử" target="_blank" rel="noopener noreferrer">
                                                          <picture
                                                              class="position-relative w-100 m-0 ratio1by1 has-edge aspect d-block zoom">
                                                              <img src="images/tknhom.png"
@@ -589,8 +589,8 @@
 
                                                          <div class="item-info position-relative">
                                                              <h3 class="item-title font-weight-normal mb-0 mt-1">
-                                                                 <a class="line_1" href="/" title="Tài khoản nhóm">
-                                                                     Tài khoản nhóm
+                                                                 <a class="line_1" href="https://onthi2k7.girc.edu.vn" title="Tài khoản nhóm" target="_blank" rel="noopener noreferrer">
+                                                                     Tài khoản nhóm DÙNG THỬ
                                                                  </a>
                                                              </h3>
                                                              <div class="item-price position-relative">
@@ -606,9 +606,9 @@
                                              <div class="swiper-slide swiper-slide-edit text-left box_padding">
                                                  <div
                                                      class="product-item position-relative p-2 rounded-10 bg-white h-100 border">
-                                                     <a href="/"
+                                                     <a href="https://onthi2k7.girc.edu.vn"
                                                          class="d-block mb-2 modal-open position-relative rounded thumb"
-                                                         title="Tài khoản tập thể">
+                                                         title="Tài khoản tập thể" target="_blank" rel="noopener noreferrer">
                                                          <picture
                                                              class="position-relative w-100 m-0 ratio1by1 has-edge aspect d-block zoom">
                                                              <img src="images/taikhoantapthe.png"
@@ -618,9 +618,9 @@
 
                                                          <div class="item-info position-relative">
                                                              <h3 class="item-title font-weight-normal mb-0 mt-1">
-                                                                 <a class="line_1" href="/"
-                                                                     title="Tài khoản tập thể">
-                                                                     Tài khoản tập thể
+                                                                 <a class="line_1" href="https://onthi2k7.girc.edu.vn"
+                                                                     title="Tài khoản tập thể" target="_blank" rel="noopener noreferrer">
+                                                                     Tài khoản tập thể DÙNG THỬ
                                                                  </a>
                                                              </h3>
                                                              <div class="item-price position-relative">
@@ -677,7 +677,7 @@
                                      </h3>
                                  </div>
                              </div>
-                             
+
                              <div class="swiper-slide swiper-slide-active" style="width: 268.75px; margin-right: 15px"
                                  role="group" aria-label="2 / 8">
                                  <div class="item_grid">
@@ -802,7 +802,7 @@
                      </div>
                  </div>
              </section>
-             
+
              <div class="modal fade" id="quickviewModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
              aria-hidden="true">
              <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
@@ -815,72 +815,72 @@
                  </div>
              </div>
          </div>
-         <div id="popsale" class="jas-sale-pop flex pf middle-xs rounded-10 bg-white box_shadow position-fixed">
-             <a href="" class="jas-sale-pop-img mr-3">
-                 <div class="position-relative w-100 m-0 ratio1by1 has-edge aspect">
-                     <img class="d-block img img-cover position-absolute"
-                         src="" alt="">
-                 </div>
-             </a>
-             <div class="jas-sale-pop-content">
-                 <p class="font-weight-bold mb-0">Tài khoản miễn phí</p>
-                 <h3 class="mb-1">
-                     <a href="" title="Tài khoản miễn phí">
-                         Tài khoản miễn phí
-                     </a>
-                 </h3>
-             </div>
-             <div class="jas-sale-pop-content">
-                 <p class="font-weight-bold mb-0">Tài khoản dùng thử</p>
-                 <h3 class="mb-1">
-                     <a href="" title="Tài khoản dùng thử">
-                         Tài khoản dùng thử
-                     </a>
-                 </h3>
-             </div>
-             <div class="jas-sale-pop-content">
-                 <p class="font-weight-bold mb-0">Tài khoản Pro</p>
-                 <h3 class="mb-1">
-                     <a href="" title="Tài khoản Pro">
-                         Tài khoản Pro
-                     </a>
-                 </h3>
-             </div>
-             <span class="btn btn-close position-absolute"></span>
-             <a href="" class="jas-sale-pop-img mr-3">
-                 <div class="position-relative w-100 m-0 ratio1by1 has-edge aspect">
-                     <img class="d-block img img-cover position-absolute"
-                         src="" alt="">
-                 </div>
-             </a>
-             <div class="jas-sale-pop-content">
-                 <p class="font-weight-bold mb-0">Tài khoản nhóm</p>
-                 <h3 class="mb-1">
-                     <a href="" title="Tài khoản nhóm">
-                         Tài khoản nhóm
-                     </a>
-                 </h3>
-             </div>
-             <div class="jas-sale-pop-content">
-                 <p class="font-weight-bold mb-0">Tài khoản tập thể</p>
-                 <h3 class="mb-1">
-                     <a href=""
-                         title="Tài khoản tập thể">
-                         Tài khoản tập thể
-                     </a>
-                 </h3>
-             </div>
-             <span class="btn btn-close position-absolute"></span>
-             <a href=""
-                 class="jas-sale-pop-img mr-3">
-                 <div class="position-relative w-100 m-0 ratio1by1 has-edge aspect">
-                     <img class="d-block img img-cover position-absolute"
-                         src=""
-                         alt="">
-                 </div>
-             </a>
-         </div>
-     
+            <div id="popsale" class="jas-sale-pop flex pf middle-xs rounded-10 bg-white box_shadow position-fixed">
+                <a href="" class="jas-sale-pop-img mr-3">
+                    <div class="position-relative w-100 m-0 ratio1by1 has-edge aspect">
+                        <img class="d-block img img-cover position-absolute"
+                            src="" alt="">
+                    </div>
+                </a>
+                <div class="jas-sale-pop-content">
+                    <p class="font-weight-bold mb-0">Tài khoản miễn phí</p>
+                    <h3 class="mb-1">
+                        <a href="" title="Tài khoản miễn phí">
+                            Tài khoản miễn phí
+                        </a>
+                    </h3>
+                </div>
+                <div class="jas-sale-pop-content">
+                    <p class="font-weight-bold mb-0">Tài khoản dùng thử MÔN TOÁN</p>
+                    <h3 class="mb-1">
+                        <a href="" title="Tài khoản dùng thử MÔN TOÁN">
+                            Tài khoản dùng thử MÔN TOÁN
+                        </a>
+                    </h3>
+                </div>
+                <div class="jas-sale-pop-content">
+                    <p class="font-weight-bold mb-0">Tài khoản Pro học sinh giỏi Sinh học</p>
+                    <h3 class="mb-1">
+                        <a href="" title="Tài khoản Pro học sinh giỏi Sinh học">
+                            Tài khoản Pro học sinh giỏi Sinh học
+                        </a>
+                    </h3>
+                </div>
+                <span class="btn btn-close position-absolute"></span>
+                <a href="" class="jas-sale-pop-img mr-3">
+                    <div class="position-relative w-100 m-0 ratio1by1 has-edge aspect">
+                        <img class="d-block img img-cover position-absolute"
+                            src="" alt="">
+                    </div>
+                </a>
+                <div class="jas-sale-pop-content">
+                    <p class="font-weight-bold mb-0">Tài khoản nhóm DÙNG THỬ</p>
+                    <h3 class="mb-1">
+                        <a href="" title="Tài khoản nhóm DÙNG THỬ">
+                            Tài khoản nhóm DÙNG THỬ
+                        </a>
+                    </h3>
+                </div>
+                <div class="jas-sale-pop-content">
+                    <p class="font-weight-bold mb-0">Tài khoản tập thể DÙNG THỬ</p>
+                    <h3 class="mb-1">
+                        <a href=""
+                            title="Tài khoản tập thể DÙNG THỬ">
+                            Tài khoản tập thể DÙNG THỬ
+                        </a>
+                    </h3>
+                </div>
+                <span class="btn btn-close position-absolute"></span>
+                <a href=""
+                    class="jas-sale-pop-img mr-3">
+                    <div class="position-relative w-100 m-0 ratio1by1 has-edge aspect">
+                        <img class="d-block img img-cover position-absolute"
+                            src=""
+                            alt="">
+                    </div>
+                </a>
+            </div>
+
          <script>
              const popsale_cate = [{
                      "img_url": "images/tkmienphi.png",
@@ -889,22 +889,22 @@
                  },
                  {
                      "img_url": "images/tkdungthu.png",
-                     "title": "Tài khoản dùng thử",
+                     "title": "Tài khoản dùng thử MÔN TOÁN",
                      "url": "",
                  },
                  {
                      "img_url": "images/tkpro.png",
-                     "title": "Tài khoản Pro",
+                     "title": "Tài khoản Pro học sinh giỏi Sinh học",
                      "url": "",
                  },
                  {
                      "img_url": "images/tknhom.png",
-                     "title": "Tài khoản nhóm",
+                     "title": "Tài khoản nhóm DÙNG THỬ",
                      "url": "",
                  },
                  {
                      "img_url": "images/taikhoantapthe.png",
-                     "title": "Tài khoản tập thể",
+                     "title": "Tài khoản tập thể DÙNG THỬ",
                      "url": "",
                  },
                  {
@@ -933,7 +933,7 @@
                      "url": "",
                  },
              ];
-     
+
              let pmin = "phút trước";
              let ptit = "Danh mục";
              let pdes = "Được truy cập";

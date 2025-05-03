@@ -33,7 +33,7 @@
                             <td>Không có tính năng cá nhân hóa và báo cáo chi tiết</td>
                         </tr>
                         <tr>
-                            <th scope="row">2. Tài khoản dùng thử</th>
+                            <th scope="row">2. Tài khoản dùng thử MÔN TOÁN</th>
                             <td>
                                 <ul>
                                     <li>Truy cập toàn bộ tính năng trong vòng 7-14 ngày:</li>
@@ -48,7 +48,7 @@
                             <td>Chỉ dùng được một lần duy nhất cho mỗi người dùng.</td>
                         </tr>
                         <tr>
-                            <th scope="row">3. Tài khoản Pro</th>
+                            <th scope="row">3. Tài khoản Pro học sinh giỏi Sinh học</th>
                             <td>
                                 <ul>
                                     <li>Truy cập toàn bộ tính năng nâng cao:</li>
@@ -67,7 +67,7 @@
                             <td>Có thể chọn thanh toán theo tháng hoặc năm (ưu đãi khi thanh toán năm).</td>
                         </tr>
                         <tr>
-                            <th scope="row">4. Tài khoản nhóm</th>
+                            <th scope="row">4. Tài khoản nhóm DÙNG THỬ</th>
                             <td>
                                 <ul>
                                     <li>Gói dành cho 5-10 người dùng:</li>
@@ -82,7 +82,7 @@
                             <td>Tiết kiệm 20-30% so với gói cá nhân.</td>
                         </tr>
                         <tr>
-                            <th scope="row">5. Tài khoản tập thể</th>
+                            <th scope="row">5. Tài khoản tập thể DÙNG THỬ</th>
                             <td>
                                 <ul>
                                     <li>Gói dành cho tổ chức hoặc trường học:</li>

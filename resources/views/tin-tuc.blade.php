@@ -142,20 +142,20 @@
                                             <ul class="menu_down" style="display: none;">
                                                 <li class="dropdown-submenu nav-item  position-relative">
                                                     <a href="http://14.225.211.7:8502/"
-                                                        class="nav-link pr-5" title="Gia sư MindGrow">
+                                                        class="nav-link pr-5" title="Gia sư MindGrow" target="_blank" rel="noopener noreferrer">
                                                         Gia sư MindGrow
                                                     </a>
                                                 </li>
                                                 <li class="dropdown-submenu nav-item  position-relative">
                                                     <a href="http://14.225.211.7:8503/"
-                                                        class="nav-link pr-5" title="Chăm sóc sức khỏe tinh thần MindGrow">
+                                                        class="nav-link pr-5" title="Chăm sóc sức khỏe tinh thần MindGrow" target="_blank" rel="noopener noreferrer">
                                                         Chăm sóc sức khỏe tinh thần MindGrow
                                                     </a>
                                                 </li>
                                                 <li class="dropdown-submenu nav-item  position-relative">
-                                                    <a href=""
-                                                        class="nav-link pr-5" title="Dịch vụ tư vấn chuyên sâu">
-                                                        Dịch vụ tư vấn chuyên sâu
+                                                    <a href="{{ url('lien-he') }}"
+                                                        class="nav-link pr-5" title="Cá nhân hóa và dịch vụ tư vấn chuyên sâu">
+                                                        Cá nhân hóa và dịch vụ tư vấn chuyên sâu
                                                     </a>
                                                 </li>
                                             </ul>
@@ -175,7 +175,7 @@
                                                 <li class="dropdown-submenu nav-item  position-relative">
                                                     <a href=""
                                                         class="nav-link pr-5" title="Quản lý cảm xúc và giảm stree">
-                                                        Quản lý cảm xúc và giảm stree
+                                                        Quản lý cảm xúc và giảm stress
                                                     </a>
                                                 </li>
                                                 <li class="dropdown-submenu nav-item  position-relative">
@@ -204,39 +204,42 @@
                                                 class="open_mnu down_icon align-items-center justify-content-center position-absolute"></i>
                                             <ul class="menu_down" style="display: none;">
                                                 <li class="dropdown-submenu nav-item  position-relative">
-                                                    <a href=""
-                                                        class="nav-link pr-5" title="Tài khoản miễn phí">
+                                                    <a href="http://14.225.211.7:8503/"
+                                                        class="nav-link pr-5" title="Tài khoản miễn phí" target="_blank" rel="noopener noreferrer">
                                                         Tài khoản miễn phí
                                                     </a>
                                                 </li>
                                                 <li class="dropdown-submenu nav-item  position-relative">
-                                                    <a href=""
-                                                        class="nav-link pr-5" title="Tài khoản dùng thử">
-                                                        Tài khoản dùng thử
+                                                    <a href="https://aitoan2k7.girc.edu.vn"
+                                                        class="nav-link pr-5" title="Tài khoản dùng thử" target="_blank" rel="noopener noreferrer">
+                                                        Tài khoản dùng thử môn Toán
                                                     </a>
                                                 </li>
                                                 <li class="dropdown-submenu nav-item  position-relative">
-                                                    <a href=""
-                                                        class="nav-link pr-5" title="Tài khoản pro">
-                                                        Tài khoản pro
+                                                    <a href="http://14.225.211.7:8502/"
+                                                        class="nav-link pr-5" title="Tài khoản pro" target="_blank" rel="noopener noreferrer">
+                                                        Tài khoản pro học sinh giỏi Sinh học
                                                     </a>
                                                 </li>
                                                 <li class="dropdown-submenu nav-item  position-relative">
-                                                    <a href=""
-                                                        class="nav-link pr-5" title="Tài khoản nhóm">
-                                                        Tài khoản nhóm
+                                                    <a href="https://onthi2k7.girc.edu.vn"
+                                                        class="nav-link pr-5" title="Tài khoản nhóm" target="_blank" rel="noopener noreferrer">
+                                                        Tài khoản nhóm DÙNG THỬ
                                                     </a>
                                                 </li>
                                                 <li class="dropdown-submenu nav-item  position-relative">
-                                                    <a href=""
-                                                        class="nav-link pr-5" title="Tài khoản tập thể">
-                                                        Tài khoản tập thể
+                                                    <a href="https://onthi2k7.girc.edu.vn"
+                                                        class="nav-link pr-5" title="Tài khoản tập thể" target="_blank" rel="noopener noreferrer">
+                                                        Tài khoản tập thể DÙNG THỬ
                                                     </a>
                                                 </li>
                                             </ul>
                                         </li>
                                         <li class="nav-item position-relative ">
                                             <a href="{{ url('lien-he') }}" title="Liên hệ" class="nav-link pl-0" href="/pages/lien-he">Liên hệ</a>
+                                        </li>
+                                        <li class="nav-item position-relative ">
+                                            <a href="{{ url('hdsd') }}" title="Hướng dẫn sử dụng sản phẩm hiệu quả" class="nav-link pl-0">Hướng dẫn sử dụng sản phẩm hiệu quả</a>
                                         </li>
                                     </ul>
                                 </nav>

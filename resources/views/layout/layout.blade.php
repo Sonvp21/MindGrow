@@ -279,20 +279,20 @@
                                     style="min-width: max-content">
                                     <li class="no level1 pr-lg-2 pl-2 position-relative cls">
                                         <a href="http://14.225.211.7:8502/"
-                                            class="py-1 py-lg-2 position-relative js-checkMenu" title="">
+                                            class="py-1 py-lg-2 position-relative js-checkMenu" title="Gia sư MindGrow" target="_blank" rel="noopener noreferrer">
                                             Gia sư MindGrow
                                         </a>
                                     </li>
                                     <li class="no level1 pr-lg-2 pl-2 position-relative cls">
                                         <a href="http://14.225.211.7:8503/"
-                                            class="py-1 py-lg-2 position-relative js-checkMenu" title="">
+                                            class="py-1 py-lg-2 position-relative js-checkMenu" title="Chăm sóc sức khỏe tinh thần MindGrow" target="_blank" rel="noopener noreferrer">
                                             Chăm sóc sức khỏe tinh thần MindGrow
                                         </a>
                                     </li>
                                     <li class="no level1 pr-lg-2 pl-2 position-relative cls">
-                                        <a href="/" class="py-1 py-lg-2 position-relative js-checkMenu"
-                                            title="">
-                                            Dịch vụ tư vấn chuyên sâu
+                                        <a href="{{ url('lien-he') }}" class="py-1 py-lg-2 position-relative js-checkMenu"
+                                            title="Cá nhân hóa và dịch vụ tư vấn chuyên sâu">
+                                            Cá nhân hóa và dịch vụ tư vấn chuyên sâu
                                         </a>
                                     </li>
 
@@ -362,25 +362,25 @@
                                     <li class="no level1 pr-lg-2 pl-2 position-relative cls">
                                         <a href="" class="py-1 py-lg-2 position-relative js-checkMenu"
                                             title="">
-                                            Tài khoản dùng thử
+                                            Tài khoản dùng thử MÔN TOÁN
                                         </a>
                                     </li>
                                     <li class="no level1 pr-lg-2 pl-2 position-relative cls">
                                         <a href="" class="py-1 py-lg-2 position-relative js-checkMenu"
                                             title="">
-                                            Tài khoản Pro
+                                            Tài khoản Pro học sinh giỏi Sinh học
                                         </a>
                                     </li>
                                     <li class="no level1 pr-lg-2 pl-2 position-relative cls">
                                         <a href="" class="py-1 py-lg-2 position-relative js-checkMenu"
                                             title="">
-                                            Tài khoản nhóm
+                                            Tài khoản nhóm DÙNG THỬ
                                         </a>
                                     </li>
                                     <li class="no level1 pr-lg-2 pl-2 position-relative cls">
                                         <a href="" class="py-1 py-lg-2 position-relative js-checkMenu"
                                             title="">
-                                            Tài khoản tập thể
+                                            Tài khoản tập thể DÙNG THỬ
                                         </a>
                                     </li>
 
@@ -397,6 +397,12 @@
                                 <a href="{{url('lien-he')}}" title="Liên hệ"
                                     class="font-weight-bold d-block py-1 pl-lg-3 pr-lg-3 pr-2 position-relative ">
                                     Liên hệ
+                                </a>
+                            </li>
+                            <li class="level0 cls pt-1 pt-lg-2 pb-lg-2 pb-1 not-mega">
+                                <a href="{{url('hdsd')}}" title="Hướng dẫn sử dụng sản phẩm hiệu quả"
+                                    class="font-weight-bold d-block py-1 pl-lg-3 pr-lg-3 pr-2 position-relative ">
+                                    Hướng dẫn sử dụng sản phẩm hiệu quả
                                 </a>
                             </li>
 
@@ -439,22 +445,22 @@
                                         <li class="level2 position-relative">
                                             <a href="http://14.225.211.7:8502/"
                                                 class="h-100 d-flex pl-3 pt-2 pb-2 border-bottom mr-2 ml-2 align-items-center"
-                                                title="Gia sư MindGrow">
+                                                title="Gia sư MindGrow" target="_blank" rel="noopener noreferrer">
                                                 Gia sư MindGrow
                                             </a>
                                         </li>
                                         <li class="level2 position-relative">
                                             <a href="http://14.225.211.7:8503/"
                                                 class="h-100 d-flex pl-3 pt-2 pb-2 border-bottom mr-2 ml-2 align-items-center"
-                                                title="Chăm sóc sức khỏe tinh thần MindGrow">
+                                                title="Chăm sóc sức khỏe tinh thần MindGrow" target="_blank" rel="noopener noreferrer">
                                                 Chăm sóc sức khỏe tinh thần MindGrow
                                             </a>
                                         </li>
                                         <li class="level2 position-relative">
-                                            <a href=""
+                                            <a href="{{ url('lien-he') }}"
                                                 class="h-100 d-flex pl-3 pt-2 pb-2 border-bottom mr-2 ml-2 align-items-center"
-                                                title="Dịch vụ tư vấn chuyên sâu">
-                                                Dịch vụ tư vấn chuyên sâu
+                                                title="Cá nhân hóa và dịch vụ tư vấn chuyên sâu" target="_blank" rel="noopener noreferrer">
+                                                Cá nhân hóa và dịch vụ tư vấn chuyên sâu
                                             </a>
                                         </li>
                                     </ul>
@@ -538,6 +544,17 @@
                                     src="https://file.hstatic.net/200000830051/file/icon_menu_6_f0612043abcc442094295062e44d7bd2.png"
                                     alt="Liên hệ">
                                 <span class="line_1 line_2">Liên hệ</span>
+                            </a>
+                        </li>
+                        <li class="level0 d-block w-100 position-static">
+
+                            <a href="{{url('hdsd')}}" title="Hướng dẫn sử dụng"
+                                class="position-relative d-flex flex-column justify-content-center align-items-center text-center p-2">
+
+                                <img class="d-block pb-2 m-auto"
+                                    src="{{ asset('images/user-guide.png') }}"
+                                    alt="Hướng dẫn sử dụng">
+                                <span class="line_1 line_2">Hướng dẫn sử dụng</span>
                             </a>
                         </li>
                     </ul>
@@ -882,7 +899,7 @@
     </script>
 
 
-    <style>
+    {{-- <style>
         .tudongchat-icon.svelte-3x3xt4.svelte-3x3xt4 {
             padding: 8px;
             background-color: #ffffff !important;
@@ -894,7 +911,7 @@
         }
     </style>
 
-    <script src="https://app.tudongchat.com/js/chatbox.js"></script>
+    <script src="https://app.tudongchat.com/js/chatbox.js"></script> --}}
     <script>
         const tudong_chatbox = new TuDongChat('_eyUyr4r_GvLn10OhaRSw')
         tudong_chatbox.initial()
@@ -910,7 +927,7 @@
     <script src="{{ asset('website/js/classinventory.js') }}" defer=""></script>
 
     <script defer="" src="{{ asset('website/js/noti.js') }}" data-mew-status="executed"></script>
-    <script fetchpriority="low" src="{{ asset('website/js/global.js') }}" defer=""></script> 
+    <script fetchpriority="low" src="{{ asset('website/js/global.js') }}" defer=""></script>
     <script fetchpriority="low" src="{{ asset('website/js/option_selectors.js') }}" defer=""></script>
     <script fetchpriority="low" src="{{ asset('website/js/hide_unvaiable_option.js') }}" defer=""></script>
     <script fetchpriority="low" src="{{ asset('website/js/papa.js') }}" defer=""></script>

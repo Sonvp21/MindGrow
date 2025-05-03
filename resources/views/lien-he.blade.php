@@ -127,7 +127,7 @@
                                     event.preventDefault(); // Ngăn form submit bình thường
                                     var form = this;
                                     var formData = new FormData(form);
-                                    
+
                                     // Gửi form qua AJAX
                                     fetch(form.action, {
                                         method: form.method,
