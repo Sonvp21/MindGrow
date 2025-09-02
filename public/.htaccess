@@ -9,13 +9,30 @@
     RewriteCond %{HTTP:Authorization} .
     RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
 
-    # Redirect Trailing Slashes If Not A Folder...
+    # Redirect Trailing Slashes If Not A Folder
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteCond %{REQUEST_URI} (.+)/$
     RewriteRule ^ %1 [L,R=301]
 
-    # Send Requests To Front Controller...
+    # Send Requests To Front Controller
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteRule ^ index.php [L]
+
+    # ============================
+    # Bảo mật bổ sung
+    # ============================
+
+    # Chặn truy cập file nhạy cảm (.env, composer.json, package.json, ...)
+    RewriteRule ^(\.env|\.env\..*|composer\.(json|lock)|package(-lock)?\.json|yarn\.lock|phpunit\.xml.*|artisan)$ - [F,L,NC]
+
+    # Chặn PHP trong /public/vendor/
+    RewriteRule ^vendor/.*\.(php|php5|phtml)$ - [F,L,NC]
+
+    # Chặn PHP trong /public/storage/
+    RewriteRule ^storage/.*\.(php|php5|phtml)$ - [F,L,NC]
+
+    # Nếu có thư mục uploads: chỉ cho phép ảnh
+    RewriteCond %{REQUEST_URI} ^/uploads/
+    RewriteRule !\.(jpe?g|png|gif|webp|svg)$ - [F,L,NC]
 </IfModule>
